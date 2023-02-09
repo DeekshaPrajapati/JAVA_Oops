@@ -9,7 +9,7 @@ package Encapsulation;
  // car ka engin he bo driver ko to show nhi hota he bo yak jagh bind ho jata he.
 
  // *********************How to achive Encapsulation*************************
- //1) Declare variable of a class as private.
+ //1) Declare variable of a class as private. (Data Showding)
 # All variable private declare hona chiya, ya private variable class ke andar hi use ho pyga class ka bhar nhi
 #  public getter, setter method banyga jo ki hmara data ko view and modify karana me kam aygyi
 

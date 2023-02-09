@@ -1,5 +1,6 @@
 package DataShadwing_Datahinding;
 
+// Datashowding in case of  Constructor
 public class DataShowding_2 {
     String empName;
     int empAge;
@@ -11,6 +12,7 @@ public class DataShowding_2 {
     }
 
     void show(){
+
         System.out.println(empName+" "+empAge);
     }
 
